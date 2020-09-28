@@ -1,0 +1,79 @@
+{
+  "tokens": {
+    "0x2170Ed0880ac9A755fd29B2688956BD959F933F8": {
+      "id": "ethereum",
+      "decimals": 18,
+      "color": "#828384",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "precision": 4,
+      "hasIcon": false
+    },
+    "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c": {
+      "id": "binancecoin",
+      "decimals": 18,
+      "color": "#828384",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "precision": 4,
+      "hasIcon": false
+    },
+    "0x55d398326f99059fF775485246999027B3197955": {
+      "id": "tether",
+      "decimals": 18,
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "precision": 4,
+      "hasIcon": false
+    },
+    "0x505B3EFf56467c6892AF2Ab885781a876254d14A": {
+      "id": "pumk",
+      "decimals": 18,
+      "address": "0x505B3EFf56467c6892AF2Ab885781a876254d14A",
+      "name": "PUMK",
+      "symbol": "PUMK",
+      "precision": 4,
+      "hasIcon": false
+    },
+    "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56":             {
+      "id": "busd",
+      "decimals": 18,
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "precision": 4,
+      "hasIcon": false
+    },
+    "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3": {
+      "id": "dai",
+      "decimals": 18,
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "precision": 4,
+      "hasIcon": false
+    },
+    "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c": {
+      "id": "wrapped-bitcoin",
+      "decimals": 18,
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "precision": 4,
+      "hasIcon": false
+    },
+    "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402": {
+      "id": "polkadot",
+      "decimals": 18,
+      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+      "name": "Polkadot Token",
+      "symbol": "DOT",
+      "precision": 4,
+      "hasIcon": false
+    }
+  },
+  "untrusted": []
+}
