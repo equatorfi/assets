@@ -73,6 +73,24 @@
       "symbol": "DOT",
       "precision": 4,
       "iconAddress": "DOT-64C"
+    },
+    "0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E": {
+      "id": "QUSD",
+      "decimals": 18,
+      "address": "0xb8C540d00dd0Bf76ea12E4B4B95eFC90804f924E",
+      "name": "QUSD Token",
+      "symbol": "QUSD",
+      "precision": 4,
+      "iconAddress": "QUSD"
+    },
+    "0x1A2fb0Af670D0234c2857FaD35b789F8Cb725584": {
+      "id": "KUN",
+      "decimals": 18,
+      "address": "0x1A2fb0Af670D0234c2857FaD35b789F8Cb725584",
+      "name": "KUN Token",
+      "symbol": "KUN",
+      "precision": 4,
+      "iconAddress": "KUN"
     }
   },
   "untrusted": []
